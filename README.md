@@ -1,1 +1,2 @@
-# CodingChallenge18
+U61753810
+This project is part of the Interactive Media Toolbar Enhancement Challenge. The focus is on enhancing the toolbar's functionality using React.js to improve user interaction and experience on an interactive media platform that hosts a variety of movies and user engagement features.
